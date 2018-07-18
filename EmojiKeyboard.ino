@@ -1,5 +1,6 @@
 #include "Keyboard.h"
 
+// UTF-16 Emoji Hex
 #define   GRINNING_FACE                   "d83dde00"
 #define   SLIGHTLY_FROWNING_FACE          "d83dde41"
 #define   PILE_OF_POOP                    "d83ddca9"
